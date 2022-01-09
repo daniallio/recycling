@@ -1,0 +1,7 @@
+server:
+  port: 82
+  
+  
+spring:
+  application:
+    name: recycling-product.service
